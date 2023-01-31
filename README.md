@@ -91,10 +91,9 @@ I am a cloud practitioner and aspiring DevOps engineer <img src="https://media.g
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StrangeJay&theme=dark&background=000000)](https://git.io/streak-stats)  
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=StrangeJay&theme=dark&background=000000)](https://git.io/streak-stats)
+![StrangeJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=StrangeJay&show_icons=true&theme=vision-friendly-dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrangeJay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <!-- BLOG-POST-LIST:START -->
