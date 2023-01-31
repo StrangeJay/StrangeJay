@@ -97,6 +97,5 @@ I am a cloud practitioner and aspiring DevOps engineer <img src="https://media.g
 
 ---
 
-### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
