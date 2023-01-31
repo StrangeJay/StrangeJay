@@ -1,5 +1,3 @@
-![DevOps](https://user-images.githubusercontent.com/105195327/215614313-b999e2f0-a4af-4c05-a1f1-4dd1c3bd3a35.png)   
-
 <p align="center">
   <img width="100" height="100" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">
 </p>
@@ -20,7 +18,9 @@
 </div>
 
 
+<div align="center"> 
 <img src="https://komarev.com/ghpvc/?username=StrangeJay&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 <div align="center">
