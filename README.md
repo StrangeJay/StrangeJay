@@ -42,8 +42,7 @@
 I am a cloud practitioner and aspiring DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 
-- 🔭 I’m currently studying to be a DevOps engineer
-- 🌱 I’m currently learning Linux, Python, and exploring the use of some DevOps tools.
+- 🔭 Junior DevOps engineer, Technical Writer and AWS certified Solutions Architect
 - 📝 I write articles on [hashnode](https://jaykaneki.hashnode.dev/)
 - 📫 How to reach me: ![Gmail Badge](https://img.shields.io/badge/jaybills369@gmail.com-D14836?style=social&logo=gmail&logoColor=red)
 - 😄 Pronouns: Call me by your name
