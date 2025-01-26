@@ -39,7 +39,7 @@
 ---
 
 ### :woman_technologist: About Me : 
-I am a cloud practitioner and aspiring DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+I am an AWS cloud solutions architect and DevOps engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
 
 - 🔭 DevOps engineer, Technical Writer and AWS certified Solutions Architect
